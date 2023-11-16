@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nazo no eki (Mystery Station)
+* source:	https://sketchfab.com/3d-models/nazo-no-eki-mystery-station-6cbd6ce6354f44a4b6517e8176d8741b
+* author:	Thomas Nguyen (https://sketchfab.com/thomasnguyen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nazo no eki (Mystery Station)" (https://sketchfab.com/3d-models/nazo-no-eki-mystery-station-6cbd6ce6354f44a4b6517e8176d8741b) by Thomas Nguyen (https://sketchfab.com/thomasnguyen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
