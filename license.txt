@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kyoto Shiyakusho-mae (Kyoto City Hall) Station
+* source:	https://sketchfab.com/3d-models/kyoto-shiyakusho-mae-kyoto-city-hall-station-335a18ad2aa64d9bbf234caa32ac8d02
+* author:	yanosen (https://sketchfab.com/yanosen_jp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kyoto Shiyakusho-mae (Kyoto City Hall) Station" (https://sketchfab.com/3d-models/kyoto-shiyakusho-mae-kyoto-city-hall-station-335a18ad2aa64d9bbf234caa32ac8d02) by yanosen (https://sketchfab.com/yanosen_jp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
