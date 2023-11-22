@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hamster Walk
+* source:	https://sketchfab.com/3d-models/hamster-walk-041ff593cec544c19a2a37cc38c06194
+* author:	Lada.Repina (https://sketchfab.com/Lada.Repina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hamster Walk" (https://sketchfab.com/3d-models/hamster-walk-041ff593cec544c19a2a37cc38c06194) by Lada.Repina (https://sketchfab.com/Lada.Repina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
